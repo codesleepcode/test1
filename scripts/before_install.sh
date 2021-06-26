@@ -1,4 +1,4 @@
 #!/bin/bash
-sudo apt install nodejs 
+sudo yum install nodejs 
 
 
